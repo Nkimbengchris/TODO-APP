@@ -1,0 +1,86 @@
+.heading{
+	width: 50%; 
+	margin:30px auto;
+	text-align: center; 
+	color: purple ;
+	background: #FFF8DC ;
+	border: 2px solid purple ;
+	border-radius: 20px ;
+}
+body{
+	background-color: #F5F5F5;
+	font-size: 19px;
+    }
+
+form {
+	width: 40% ;
+	margin:30px auto;
+	border:5px ;
+	padding:15px ;
+	background: #FFF8DC ;
+	border:purple;
+}
+
+.task_input{
+	width:73% ;
+	height:15px ;
+	padding:10px ;
+	border:2px solid purple;
+}
+.add_btn{
+	height:39px; 
+	background:#FFF8DC;
+	color:purple ;
+	border:2px solid purple ;
+	border-radius:5px ;
+	padding:5px 20px ;
+}
+.add_btn:hover {
+              background-color: purple;
+              color: white;
+}
+table {
+	width:50% ;
+	margin:30px auto ;
+	border-collapse:collapse; 
+}
+
+tr{
+	border-bottom: 1px solid purple;
+	text-align: center;
+	align-self: center;
+	align-content: center;
+	
+}
+
+th{
+	font-size: 19px;
+	color: purple;
+}
+
+form p{
+	color: blue;
+	margin:0px;
+}
+
+th,td{
+	border:none;
+	height:30px;
+	padding:2px ;
+}
+tr:hover{
+	background: #E9E9E9E9;
+}
+.task{
+	text-align: center;
+}
+.delete{
+	text-align: center;
+}
+.delete a{
+	color:white;
+	background: #a52a2a;
+	padding:1px 6px ;
+	border-radius: 3px;
+	text-decoration: none;
+}
